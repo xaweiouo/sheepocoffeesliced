@@ -1,0 +1,67 @@
+.btn1 {
+    padding: 12px 24px;
+    border-radius: 100px;
+    background-color: $primary-800;
+    color: $primary-50;
+    border: none;
+    text-decoration: none;
+
+    &:hover {
+        background-color: $primary-600;
+    }
+}
+
+.btn2 {
+    padding: 12px 24px;
+    border-radius: 100px;
+    background-color: $primary-50;
+    color: $primary-950;
+    border: none;
+    text-decoration: none;
+
+    &:hover {
+        background-color: $primary-200;
+    }
+}
+
+//三條岔路 優雅回頭
+.btn3 {
+    padding: 12px 24px;
+    border-radius: 100px;
+    background-color: transparent;
+    color: $primary-50;
+    border: 1px solid $primary-50;
+    text-decoration: none;
+
+    &:hover {
+        color: $primary-200;
+        border: 1px solid $primary-200;
+    }
+}
+
+.btn4 {
+    padding: 8px 12px;
+    border-radius: 4px;
+    background-color: transparent;
+    color: $primary-700;
+    border: 1px solid $primary-700;
+    text-decoration: none;
+
+    &:hover {
+      color: $grey-0;
+       background-color: $primary-700
+    }
+}
+
+.btn5 {
+    padding: 16px 27px;
+    border-radius: 100px;
+    background-color: $primary-800;
+    color: $primary-50;
+    border: none;
+    text-decoration: none;
+
+    &:hover {
+        background-color: $primary-600;
+    }
+}
